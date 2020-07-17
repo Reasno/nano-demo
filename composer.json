@@ -1,0 +1,14 @@
+{
+    "name": "reasno/nano-demo",
+    "authors": [
+        {
+            "name": "Reasno",
+            "email": "guxi99@gmail.com"
+        }
+    ],
+    "require": {
+        "hyperf/nano": "^1.0",
+        "hyperf/view": "^2.0",
+        "duncan3dc/blade": "^4.10"
+    }
+}
